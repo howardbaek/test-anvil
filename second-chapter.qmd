@@ -2,7 +2,7 @@
 
 ## Learning Objectives
 
-Hello world
+Blah Blah
 
 ## Libraries
 
